@@ -1,0 +1,15 @@
+C:\Users\DELL\XOGame\src\XO\bin\Debug\net7.0\XO.exe
+C:\Users\DELL\XOGame\src\XO\bin\Debug\net7.0\XO.deps.json
+C:\Users\DELL\XOGame\src\XO\bin\Debug\net7.0\XO.runtimeconfig.json
+C:\Users\DELL\XOGame\src\XO\bin\Debug\net7.0\XO.dll
+C:\Users\DELL\XOGame\src\XO\bin\Debug\net7.0\XO.pdb
+C:\Users\DELL\XOGame\src\XO\obj\Debug\net7.0\XO.csproj.AssemblyReference.cache
+C:\Users\DELL\XOGame\src\XO\obj\Debug\net7.0\XO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\XOGame\src\XO\obj\Debug\net7.0\XO.AssemblyInfoInputs.cache
+C:\Users\DELL\XOGame\src\XO\obj\Debug\net7.0\XO.AssemblyInfo.cs
+C:\Users\DELL\XOGame\src\XO\obj\Debug\net7.0\XO.csproj.CoreCompileInputs.cache
+C:\Users\DELL\XOGame\src\XO\obj\Debug\net7.0\XO.dll
+C:\Users\DELL\XOGame\src\XO\obj\Debug\net7.0\refint\XO.dll
+C:\Users\DELL\XOGame\src\XO\obj\Debug\net7.0\XO.pdb
+C:\Users\DELL\XOGame\src\XO\obj\Debug\net7.0\XO.genruntimeconfig.cache
+C:\Users\DELL\XOGame\src\XO\obj\Debug\net7.0\ref\XO.dll
